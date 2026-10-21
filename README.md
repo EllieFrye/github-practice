@@ -17,3 +17,8 @@ This repository is for practicing GitHub and learning how to manage project file
 
 ## Future Applications
 I plan to use these skills to organize code and collaborate with my team on engineering projects.
+
+## What I Have Practiced
+- Created my first repository
+- Added project documentation
+- Learned how commits track changes
