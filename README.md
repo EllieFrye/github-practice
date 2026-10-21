@@ -22,3 +22,6 @@ I plan to use these skills to organize code and collaborate with my team on engi
 - Created my first repository
 - Added project documentation
 - Learned how commits track changes
+
+## Why GitHub Matters
+GitHub helps me track changes, keep projects organized, and collaborate with other engineers. These skills will be useful for my capstone project and future career.
